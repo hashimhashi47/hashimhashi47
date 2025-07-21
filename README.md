@@ -16,8 +16,6 @@
 <br />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashimhashi47&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashi47" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimhashi47" alt="hashimhashi47" /></a> </p>
 
 👨‍💻 All of my projects are available at [https://hashimhashi47.github.io/portfolio/](https://hashimhashi47.github.io/portfolio/)
@@ -37,5 +35,10 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimhashi47&show_icons=true&locale=en&layout=compact" alt="hashimhashi47" /></p>
+
+
+**![snake gif](https://github.com/hashimhashi47/hashimhashi47/blob/output/github-snake-dark.svg)**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashimhashi47&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashi47" /> </p>
 
 
