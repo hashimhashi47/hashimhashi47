@@ -6,7 +6,7 @@
   <strong>
     Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm Hashim
     <br/>
-    <h6 align="center">Software Developer</h6>
+    <h6 align="center">Full Stack Developer</h6>
     <p>
       <a href="https://linkedin.com/in/hashim-n-bb072736a
 " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
