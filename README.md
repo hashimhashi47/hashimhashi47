@@ -22,7 +22,7 @@
 </p>
 
 👨‍💻 Explore my work here → [**hashimhashi47.github.io/portfolio**](https://hashimhashi47.github.io/portfolio/)  
-📫 Reach me anytime → **hashihashim47@gmail.com**
+📫 Reach me anytime → **hashimconnectmail@gmail.com**
 
 ---
 
