@@ -15,40 +15,56 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hashimhashi47&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
   </a>
-</p>
+</p> -->
 
 👨‍💻 Explore my work here → [**hashimhashi47.github.io/portfolio**](https://hashimhashi47.github.io/portfolio/)  
 📫 Reach me anytime → **hashimconnectmail@gmail.com**
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">🛠️ Technologies & Tools I Work With</h2>
 
-<div align="center">
+<table align="center">
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GoLang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> 
+  <tr>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Go" width="55"/><br><b>Go</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="55"/><br><b>Gin</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55"/><br><b>MySQL</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62"/><br><b>REST API</b></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"/><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="55"/><br><b>Bootstrap</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
+  </tr>
 
-</div>
+  <tr>
+   
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
-💡 Passionate about crafting **clean, scalable, and user-focused web applications**.  
-🧠 Currently mastering **React Hooks**, **Tailwind UI**, and **Go APIs**.  
-⚙️ Building full-stack projects that blend **speed, style, and strong backend logic**.    
-🏎 Outside of coding — I’m a full-time **car enthusiast** and part-time **engine tinkerer**.  
-🎯 Goal: To become a **cyber-secure full-stack developer** who writes code as clean as a turbocharged engine hums.  
+I’ve been diving deep into:
+- ⚙️ **Go (Golang)** with **Gin** for creating powerful APIs  
+- 🗄️ **MySQL** for database management and queries  
+- 🌐 **HTML, CSS, JavaScript** for clean and responsive UIs  
+- ⚛️ **ReactJS** for modern frontend development  
+- 🎨 **Bootstrap** & **TailwindCSS** for styling with speed  
+- 🧠 **REST APIs** & **Postman** for testing and connecting front to back  
+
+I’m always down to learn something new, experiment with projects, and break things (then fix them 😅).  
 
 ---
 
