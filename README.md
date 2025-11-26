@@ -38,6 +38,7 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="GORM" width="55"/><br><b>GORM</b></td>
+    <td align="center"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="55"/><br><b>JWT</b</td>
   </tr>
   
   <tr>
