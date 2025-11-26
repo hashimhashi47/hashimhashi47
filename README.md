@@ -47,10 +47,8 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="55"/><br><b>Bootstrap</b></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
-</td>
-
-
-
+    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
+ </tr>
 </table>
 
 ---
