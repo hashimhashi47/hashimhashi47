@@ -49,6 +49,7 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
     <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
+      <td align="center"> <img src="https://camo.githubusercontent.com/db583023070de5c6f93dcb742c28dde5f5c164e16543e39c1136df08b1436d03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667"alt="Prettier" width="48"/><br><b>Prettier</b></td>  
  </tr>
 </table>
 
