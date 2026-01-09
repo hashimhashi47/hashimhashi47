@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm <strong>Hashim</strong> 🚗💨</h1>
-<h3>Full Stack Developer | React ⚛️ • Tailwind 🌈 • GoLang 🐹</h3>
+<h3>Full Stack Developer | GoLang • React • Tailwind  </h3>
 
 <p>
   <a href="https://linkedin.com/in/hashim-n-bb072736a" target="_blank">
